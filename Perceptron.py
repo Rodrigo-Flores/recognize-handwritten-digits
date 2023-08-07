@@ -11,6 +11,10 @@ class Perceptron:
 
     # heaviside activation function
     def activation(self, z):
+        """
+        0 if z < 0
+        1 if  >= 0
+        """
         return np.heaviside(z, 0)  # haviside(z) heaviside -> activation
 
     def fit(self, X, y):
