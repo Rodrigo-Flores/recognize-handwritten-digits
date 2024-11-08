@@ -19,7 +19,7 @@
 1.  Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/recognize-handwritten-digits.git
+git clone https://github.com/Rodrigo-Flores/recognize-handwritten-digits.git
 ```
 ```bash
 cd recognize-handwritten-digits
