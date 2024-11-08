@@ -39,6 +39,8 @@ class Network:
 	
 	def sigmoid_prime(self, z): 
 		"""
+		The derivative of the sigmoid function.
+
 		Desc:
 			Derivative of the sigmoid function.
 
