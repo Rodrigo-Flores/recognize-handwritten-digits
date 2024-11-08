@@ -1,0 +1,16 @@
+{
+  "conventionalCommits.scopes": [
+    "config",
+    "data",
+    "model",
+    "training",
+    "evaluation",
+    "preprocessing",
+    "postprocessing",
+    "documentation",
+    "tests",
+    "inference",
+    "optimization",
+    "infrastructure"
+  ]
+}
